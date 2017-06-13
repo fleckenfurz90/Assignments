@@ -10,3 +10,5 @@
 [Assignement 5](https://github.com/fleckenfurz90/Assignments/blob/master/assignment5.ipynb)
 
 [Python Final Assignment](https://github.com/fleckenfurz90/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[R Final Assignment](https://github.com/fleckenfurz90/Assignments/blob/master/OECD_R_exam.ipynb)
